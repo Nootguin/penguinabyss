@@ -1,3 +1,3 @@
-# penguinabyss
+# Penguin Treasure Diver
 
 WIP
